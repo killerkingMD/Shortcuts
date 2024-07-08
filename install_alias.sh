@@ -22,4 +22,5 @@ echo "source ~/.shortcuts" >> ~/.bashrc
 echo "Arquivo de inicialização configurado com sucesso!"
 
 # Informa sobre a necessidade de fechar e reiniciar o Termux
-echo "Por favor, feche e reinicie o Termux para que as alterações tenham efeito."
+echo "Por favor, feche e reinicie o Termux para que as alterações tenham efeito.
+⟦By-KillerkingMD👑⟧"
